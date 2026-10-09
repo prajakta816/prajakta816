@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m a 3rd Year Engineering Student passionate about technology and problem‑solving.<br><br>🤖 Skilled in Machine Learning (ML) and Artificial Intelligence (AI), with a strong foundation in Data Structures & Algorithms.<br><br>🌐 Experienced in MERN Stack Development (MongoDB, Express.js, React.js, Node.js) for building full‑stack web applications.<br><br>☕ Proficient in Java, applying it for both academic projects and real‑world problem solving.<br><br>🚀 Constantly learning, building, and contributing to projects that combine AI + Web Development for impactful solutions.
+🎓 I’m a 3rd Year Engineering Student passionate about technology and problem‑solving.<br><br>🤖.<br><br>🌐 Experienced in MERN Stack Development (MongoDB, Express.js, React.js, Node.js) for building full‑stack web applications.<br><br>☕ Proficient in Java, applying it for both academic projects and real‑world problem solving.<br><br>🚀 Constantly learning, building, and contributing to projects that combine AI + Web Development for impactful solutions.
 
 
 ## 🌐 Socials:
